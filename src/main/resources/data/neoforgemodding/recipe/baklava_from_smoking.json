@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smoking",
+    "category": "misc",
+    "ingredient": {
+        "item": "neoforgemodding:uncooked_baklava"
+    },
+    "result": {
+        "id": "neoforgemodding:baklava"},
+    "experience": 0.35,
+    "cookingtime": 100
+
+}
